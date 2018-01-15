@@ -42,7 +42,7 @@ public class Main {
 
             System.out.println("Do you want another calculation?");
 
-            if ask = true
+
 
 
 
